@@ -1,0 +1,10 @@
+.players-container{
+    display:flex;
+}
+.player{
+    width:70%;
+    border-right: 1px solid gray;
+}
+.cart-container{
+    padding:20px;
+}

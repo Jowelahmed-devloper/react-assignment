@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Lionel Messi",
+        "salary": 10000,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec595d45f39760007b05c07%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D989%26cropX2%3D2480%26cropY1%3D74%26cropY2%3D1564",
+        "team": "Barcelona"
+    },{
+        "name": "Aguero",
+        "salary": 9000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIpBE4_C5Ijcs0Op6ap7oWmiJZAbq1fc5lqiBM9URSQwZRI0nteXmyMMmPaYLGr6Jh5M&usqp=CAU",
+        "team": "Man City"
+    },{
+        "name": "Emi Martinez",
+        "salary": 800,
+        "img": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98980.png",
+        "team": "Aston Vila"
+    },
+    {
+        "name": "Pique",
+        "salary": 600,
+        "img": "https://pbs.twimg.com/media/EEdA1xGX4AAOnPJ.jpg",
+        "team": "Barcelona"
+    },{
+        "name": "Ter Stegan",
+        "salary": 200,
+        "img": "https://i.pinimg.com/736x/da/ea/31/daea31bfd1f4eb4e966056e57c98c9d7.jpg",
+        "team": "Barcelona"
+    },{
+        "name": "Suarez",
+        "salary": 400,
+        "img": "http://t0.gstatic.com/images?q=tbn:ANd9GcTOUY52RnJKT-JP7FkLExYFEahgmk81eTnr0FDv9mnvAisVYv-nXSoeZBHWA_Yh",
+        "team": "Barcelona"
+    },{
+        "name": "Buscets",
+        "salary": 100,
+        "img": "https://icdn.football-espana.net/wp-content/uploads/2020/11/Sergio-Busquets4.jpg",
+        "team": "Barcelona"
+    },{
+        "name": "Demblee",
+        "salary": 50,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ousmane_Demb%C3%A9l%C3%A9_2018.jpg",
+        "team": "Barcelona"
+    },{
+        "name": "Zlatan",
+        "salary": 10,
+        "img": "https://images.daznservices.com/di/library/GOAL/2e/c7/zlatan-ibrahimovic-ac-milan-2020-21_qzlsn9h3tsej1a79l84h466tb.jpg?t=-1206433548&quality=100",
+        "team": "Barcelona"
+    },{
+        "name": "Neymar",
+        "salary": 12,
+        "img": "https://pbs.twimg.com/profile_images/547169198288678913/hFTg2T2M_400x400.jpeg",
+        "team": "Barcelona"
+    }
+]

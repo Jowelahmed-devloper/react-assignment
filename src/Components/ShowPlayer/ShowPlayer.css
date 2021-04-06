@@ -1,0 +1,17 @@
+.player-container{
+    display:flex;
+    align-items:center;
+    margin-right: 100px;
+    margin:30px;
+}
+.img-container img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+.player-details{
+    margin-left: 40px;
+}
+.name-highlight {
+    color:red;
+}
